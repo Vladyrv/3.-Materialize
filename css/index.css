@@ -1,0 +1,34 @@
+.barra-superior{
+  min-height: 4rem;
+}
+
+.barra-superior .row{
+  margin-bottom: 0;
+}
+
+.logo{
+  width: 25%;
+  margin-top: 0.5rem;
+}
+.letra{
+  font-size:20px;
+  color: white;
+  background: blue;
+}
+
+
+.ima{
+  width: 100%;
+  padding: 5px;
+}
+
+.ima1{
+  width: 50%;
+  padding: 5px;
+
+}
+
+.fondo{
+  background: red;
+
+}
